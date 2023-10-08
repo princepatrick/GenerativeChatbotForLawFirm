@@ -1,0 +1,4 @@
+com\example\mnmchatbotbackend\mnmcontrollers\WebController.class
+com\example\mnmchatbotbackend\MnmchatbotbackendApplication.class
+com\example\mnmchatbotbackend\mnmentities\CaseFile.class
+com\example\mnmchatbotbackend\mnmrepositories\CaseFileRepository.class
